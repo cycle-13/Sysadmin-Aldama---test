@@ -10,3 +10,4 @@ Day | Hours Studying | Subject type | Link
 1 | 8 | exam and study | https://keep.google.com/u/0/#NOTE/1lx6WCEpc9izuvOJny0E_i_UAmUjg6Wp6cNqLRurLz602nTZoenlN1YWEykAhzEg
 4 | 8 | install WMI subsystem LINUX | https://aka.ms/wslinstall 
 4 | 0.50 | Solved firat 6 levels in BANDIT | ssh bandit0@bandit.labs.overthewire.org -p 2220
+4 | 4 | prep for quiz | read all PDFS and study 
