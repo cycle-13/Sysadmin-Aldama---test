@@ -11,3 +11,7 @@ Day | Hours Studying | Subject type | Link
 4 | 8 | install WMI subsystem LINUX | https://aka.ms/wslinstall 
 4 | 0.50 | Solved firat 6 levels in BANDIT | ssh bandit0@bandit.labs.overthewire.org -p 2220
 4 | 4 | prep for quiz | read all PDFS and study 
+5 | 1 | Essential Peripherals Test | Took Test 
+5 | 1 | The Visible Computer Test  |  Took Test
+5 | 1 | Motherboards Test | Took Test
+5 | 1 | Hard Drives Test | Took Test
